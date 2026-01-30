@@ -14,4 +14,7 @@ come in to help with:
 Most teams don't need more features. They need stability, performance, and confidence in production. I work with startups 
 and scaleups running Node.js, Go, or Rust that are under pressure: traffic growth, outages, or technical debt slowing delivery.
 
-I've helped teams reduce incidents, cut cloud costs, and ship faster without risk rewrites.
+I've helped teams reduce incidents, cut cloud costs, and ship faster without risk rewrites. I usually work on short, high-impact 
+contacts. I'm not the cheapest, but clients bring me in when things matters.
+
+> High price + Clarity = Trust
