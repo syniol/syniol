@@ -26,5 +26,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 
 ### Open Source Projects
+ * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
+ * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
