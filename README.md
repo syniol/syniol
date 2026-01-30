@@ -18,3 +18,8 @@ I've helped teams reduce incidents, cut cloud costs, and ship faster without ris
 contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 > High price + Clarity = Trust
+
+
+### Open Source Projects
+ * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
+ * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
