@@ -1,8 +1,8 @@
 ## Welcome to Syniol Limited
 
 I am a principle software engineer | Node.js | Golang | Rust. I have with a strong background in Linux and AWS platform. 
-I parachute into Node.js, Go, and Rust backend that are slow, fragile, or failing and make them boring again. Some of 
-example of my key expertises are:
+I parachute into Node.js, Go, and Rust backend that are slow, fragile, or failing and make them boring again. I typically 
+come in to help with:
 
  * Node.js systems that are slow, flaky, or on fire in production.
  * Migrating Node monolothis to Go, and Rust Microservices without downtime.
@@ -14,3 +14,4 @@ example of my key expertises are:
 Most teams don't need more features. They need stability, performance, and confidence in production. I work with startups 
 and scaleups running Node.js, Go, or Rust that are under pressure: traffic growth, outages, or technical debt slowing delivery.
 
+I've helped teams reduce incidents, cut cloud costs, and ship faster without risk rewrites.
