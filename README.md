@@ -4,7 +4,7 @@ I am a principle software engineer | Node.js | Golang | Rust, with a strong back
 I parachute into Node.js, Go, and Rust backend that are slow, fragile, or failing and make them boring again. I typically 
 come in to help with:
 
- * Node.js systems that are slow, flaky, or on fire in production.
+ * 🔥Node.js systems that are slow, flaky, or on fire in production.
  * Migrating Node monolothis to Go, and Rust Microservices without downtime.
  * Fixing TypeScrip codebases that feel unmaintainable and scary.
  * Scaling startups from 50k -> 5M users without a rewrite.
