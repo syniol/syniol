@@ -24,7 +24,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 > High price + Clarity = Trust
 
-### Closed Source Projects
+### 📫Closed Source Projects
  * [XYO Financial](https://xyo.financial)
    * [XYO Rust SDK](https://github.com/syniol/xyo-sdk-rust)
    * [XYO Go (Golang) SDK](https://github.com/syniol/xyo-sdk-go)
@@ -32,7 +32,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
    * [XYO PHP SDK](https://github.com/syniol/xyo-sdk-php)
 
 
-### Open Source Projects
+### 📬Open Source Projects
  * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
  * [Sycrypt _Golang Enryption Package)_](https://github.com/syniol/sycrypt)
