@@ -39,3 +39,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
+
+### Education
+ * BSc (Hons) is a Bachelor of Science
+ * MSc in Computer Science
