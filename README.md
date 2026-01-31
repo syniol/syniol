@@ -42,6 +42,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Blockchain Library (Golang)](https://github.com/syniol/blockchain-golang)
  * [Layered Software Architecture Demo (Golang)](https://github.com/syniol/software-architecture-fundamental-golang)
+ * [Micro Kernel Software Architecture Demo (Golang)](https://github.com/syniol/microkernel-architecture-pattern-golang)
  * [Data Structures (Golang](https://github.com/syniol/golang-data-structures)
  * [Cloud Design Patterns for Resilency and Availability](https://github.com/syniol/cloud-design-patterns-resilience-availability-ts)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
