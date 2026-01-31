@@ -24,6 +24,13 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 > High price + Clarity = Trust
 
+### Closed Source Projects
+ * [XYO Financial](https://xyo.financial)
+ * [XYO Rust SDK](https://github.com/syniol/xyo-sdk-rust)
+ * [XYO Go (Golang) SDK](https://github.com/syniol/xyo-sdk-go)
+ * [XYO Node.js SDK](https://github.com/syniol/xyo-sdk-node)
+ * [XYO PHP SDK](https://github.com/syniol/xyo-sdk-php)
+
 
 ### Open Source Projects
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
