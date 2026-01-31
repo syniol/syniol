@@ -1,4 +1,4 @@
-## Welcome to Syniol Limited
+## Welcome to Syniol Limited 🫶
 
 I am a principle software engineer | Node.js | Golang | Rust, with a strong background in Linux and AWS platform. 
 I parachute into Node.js, Go, and Rust backend that are slow, fragile, or failing and make them boring again. I typically 
@@ -24,7 +24,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 > High price + Clarity = Trust
 
-### 📫Closed Source Projects
+### 📫 Closed Source Projects
  * [XYO Financial](https://xyo.financial)
    * [XYO Rust SDK](https://github.com/syniol/xyo-sdk-rust)
    * [XYO Go (Golang) SDK](https://github.com/syniol/xyo-sdk-go)
@@ -32,7 +32,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
    * [XYO PHP SDK](https://github.com/syniol/xyo-sdk-php)
 
 
-### 📬Open Source Projects
+### 📬 Open Source Projects
  * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
  * [Sycrypt _Golang Enryption Package)_](https://github.com/syniol/sycrypt)
@@ -52,6 +52,6 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Carbon GraphQL](https://github.com/syniol/carbon)
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
 
-### 🎓Education
+### 🎓 Education
  * BSc (Hons) is a Bachelor of Computer Science
  * MSc in Computer Science
