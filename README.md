@@ -35,7 +35,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 ### 📬 Open Source Projects
  * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
- * [Sycrypt _Golang Enryption Package)_](https://github.com/syniol/sycrypt)
+ * [Sycrypt _Golang Enryption Package_](https://github.com/syniol/sycrypt)
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
  * [Go RPC Protocol Demo with Docker](https://github.com/syniol/go-rpc)
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
@@ -45,7 +45,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Blockchain Library (Golang)](https://github.com/syniol/blockchain-golang)
  * [Layered Software Architecture Demo (Golang)](https://github.com/syniol/software-architecture-fundamental-golang)
  * [Micro Kernel Software Architecture Demo (Golang)](https://github.com/syniol/microkernel-architecture-pattern-golang)
- * [Data Structures (Golang](https://github.com/syniol/golang-data-structures)
+ * [Data Structures (Golang)](https://github.com/syniol/golang-data-structures)
  * [Serverless GraphQL with AWS CDK (Golang)](https://github.com/syniol/serverless-graphql-api-golang)
  * [Cloud Design Patterns for Resilency and Availability](https://github.com/syniol/cloud-design-patterns-resilience-availability-ts)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
