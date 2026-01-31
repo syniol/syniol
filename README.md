@@ -33,8 +33,10 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 
 ### Open Source Projects
- * [Prison Break _Stateless DDOS Protection_](https://github.com/syniol/prison-break)
+ * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
+ * [Sycrypt _Golang Enryption Package)_](https://github.com/syniol/sycrypt)
+ * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
