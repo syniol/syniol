@@ -43,6 +43,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Data Structures (Golang](https://github.com/syniol/golang-data-structures)
  * [Cloud Design Patterns for Resilency and Availability](https://github.com/syniol/cloud-design-patterns-resilience-availability-ts)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
+ * [Carbon GraphQL](https://github.com/syniol/carbon)
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
 
 ### 🎓Education
