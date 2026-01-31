@@ -40,6 +40,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Go RPC Protocol Demo with Docker](https://github.com/syniol/go-rpc)
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
+ * [Blockchain Library (Golang)](https://github.com/syniol/blockchain-golang)
  * [Layered Software Architecture Demo (Golang)](https://github.com/syniol/software-architecture-fundamental-golang)
  * [Data Structures (Golang](https://github.com/syniol/golang-data-structures)
  * [Cloud Design Patterns for Resilency and Availability](https://github.com/syniol/cloud-design-patterns-resilience-availability-ts)
