@@ -41,5 +41,5 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
 
 ### 🎓Education
- * BSc (Hons) is a Bachelor of Science
+ * BSc (Hons) is a Bachelor of Computer Science
  * MSc in Computer Science
