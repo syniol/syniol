@@ -37,6 +37,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
  * [Sycrypt _Golang Enryption Package)_](https://github.com/syniol/sycrypt)
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
+ * [Go RPC Protocol Demo with Docker](https://github.com/syniol/go-rpc)
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Layered Software Architecture Demo (Golang)](https://github.com/syniol/software-architecture-fundamental-golang)
