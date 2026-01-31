@@ -39,7 +39,8 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
- * [Layered Software Architecture Demo _Golang_](https://github.com/syniol/software-architecture-fundamental-golang)
+ * [Layered Software Architecture Demo (Golang)](https://github.com/syniol/software-architecture-fundamental-golang)
+ * [Data Structures (Golang](https://github.com/syniol/golang-data-structures)
  * [Native TypeScript on Node.js](https://github.com/syniol/nodejs-typescript-native)
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
 
