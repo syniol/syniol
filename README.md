@@ -6,7 +6,7 @@ come in to help with:
 
  🔥 Node.js systems that are slow, flaky, or on fire in production.
  
- 🎢 Migrating Node monolothis to Go, and Rust Microservices without downtime.
+ 🎢 Migrating Node monoliths to Go, and Rust Microservices without downtime.
  
  🚧 Fixing TypeScrip codebases that feel unmaintainable and scary.
  
