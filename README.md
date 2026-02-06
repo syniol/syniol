@@ -54,5 +54,5 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 
 ### 🎓 Education
- * Master of Science <sup>MSc</sup> in Computer Science | University of Salford | Manchester, UK
- * Bachelor of Science <sup>BSc (Hons)</sup> in Computer Science | University of Salford | Manchester, UK
+ * Master of Science (MSc) in Computer Science | University of Salford | Manchester, UK
+ * Bachelor of Science (BSc Hons) in Computer Science | University of Salford | Manchester, UK
