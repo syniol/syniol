@@ -16,8 +16,7 @@ come in to help with:
  
  💥 Fixing brittle Node.js, Go, and Rust backends for UK/EU startups (High-scale, High-traffic systems)
 
-Most teams don't need more features. They need stability, performance, and confidence in production. I work with startups 
-and scaleups running Node.js, Go, or Rust that are under pressure: traffic growth, outages, or technical debt slowing delivery.
+Most teams don't need more features. They need stability, performance, and confidence in production. I work with startups, scaleups, and UK Government running Node.js, Go, or Rust that are under pressure: traffic growth, outages, or technical debt slowing delivery.
 
 I've helped teams reduce incidents, cut cloud costs, and ship faster without risk rewrites. I usually work on short, high-impact 
 contacts. I'm not the cheapest, but clients bring me in when things matters.
