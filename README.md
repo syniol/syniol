@@ -52,6 +52,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Carbon GraphQL](https://github.com/syniol/carbon)
  * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
 
+
 ### 🎓 Education
- * BSc (Hons) is a Bachelor of Computer Science
- * MSc in Computer Science
+ * Master of Science <sup>MSc</sup> in Computer Science | University of Salford | Manchester, UK
+ * Bachelor of Science <sup>BSc (Hons)</sup> in Computer Science | University of Salford | Manchester, UK
