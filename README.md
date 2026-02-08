@@ -62,3 +62,9 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Go (Golang) <sup>_Private Repository_</sup>](https://github.com/syniol/lab_golang)
  * [Rust <sup>_Private Repository_</sup>](https://github.com/syniol/lab_rust)
  * [Cloud Platforms AWS/Azure/GCP <sup>_Private Repository_</sup>](https://github.com/syniol/lab_cloud_platform)
+
+
+<!--
+ICONS: https://techicons.dev/icons/goland
+EMOJIS: https://www.webfx.com/tools/emoji-cheat-sheet/
+-->
