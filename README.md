@@ -1,8 +1,8 @@
 ## Welcome to Syniol Limited 🫶
 
-I am a principle software engineer TypeScript/Node.js and Golang, with a strong background in Linux and AWS platform. 
-I parachute into Node.js, Go, and Rust backend that are slow, fragile, or failing and make them boring again. I typically 
-come in to help with:
+Principal Cloud Architect (TypeScript/Go). Specializing in High-Throughput FinTech Systems, GDS Compliance, 
+and Event-Driven AWS Infrastructure. I parachute into Node.js, Go, and Rust backend that are slow, fragile, 
+or failing and make them boring again. I typically come in to help with:
 
  🔥 Node.js systems that are slow, flaky, or on fire in production.
  
