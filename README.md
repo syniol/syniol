@@ -57,12 +57,6 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * Bachelor of Science (BSc Hons) in Computer Science | University of Salford | Manchester, UK
 
 
-### 🔬 Exercise Laboratory
- * [Node.js/TypeScript <sup>_Private Repository_</sup>](https://github.com/syniol/lab_typescript)
- * [Go (Golang) <sup>_Private Repository_</sup>](https://github.com/syniol/lab_golang)
- * [Rust <sup>_Private Repository_</sup>](https://github.com/syniol/lab_rust)
- * [Cloud Platforms AWS/Azure/GCP <sup>_Private Repository_</sup>](https://github.com/syniol/lab_cloud_platform)
-
 
 <!--
 ICONS: https://techicons.dev/icons/goland
