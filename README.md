@@ -1,7 +1,7 @@
 ## Welcome to Syniol Limited 🫶
 
 Principal Cloud Architect (TypeScript/Go). Specializing in High-Throughput FinTech Systems, GDS Compliance, 
-and Event-Driven AWS Infrastructure. I parachute into Node.js, Go, and Rust backend that are slow, fragile, 
+and Event-Driven AWS Infrastructure. I parachute into Node.js and Go backend that are slow, fragile, 
 or failing and make them boring again. I typically come in to help with:
 
  🔥 Node.js systems that are slow, flaky, or on fire in production.
