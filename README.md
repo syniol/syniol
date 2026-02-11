@@ -40,8 +40,6 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
  * [AWS Lambda Node.js Skelton Boilerplate](https://github.com/syniol/lamda-node-js)
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
- * [Blockchain Library (Node.js)](https://github.com/syniol/blockchain-node-ts)
- * [Blockchain Library (Golang)](https://github.com/syniol/blockchain-golang)
  * [Layered Software Architecture Demo (Golang)](https://github.com/syniol/software-architecture-fundamental-golang)
  * [Micro Kernel Software Architecture Demo (Golang)](https://github.com/syniol/microkernel-architecture-pattern-golang)
  * [Data Structures (Golang)](https://github.com/syniol/golang-data-structures)
