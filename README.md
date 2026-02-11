@@ -41,7 +41,6 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Serverless GraphQL with AWS CDK (Golang)](https://github.com/syniol/serverless-graphql-api-golang)
  * [Carbon GraphQL](https://github.com/syniol/carbon)
- * [Rock, Paper, Scissors, Lizard, and Spoke (Golang)](https://github.com/syniol/rock-paper-scissors-lizard-spock)
 
 
 ### 🎓 Education
