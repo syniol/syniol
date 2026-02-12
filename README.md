@@ -1,6 +1,6 @@
 ## Welcome to Syniol Limited 🫶
 
-Principal Cloud Architect (TypeScript/Go). Specializing in High-Throughput FinTech Systems, GDS Compliance, 
+Principal Cloud Architect (TypeScript/Go). Specialising in High-Throughput FinTech Systems, GDS Compliance, 
 and Event-Driven AWS Infrastructure. I parachute into Node.js and Go backend that are slow, fragile, 
 or failing and make them boring again. I typically come in to help with:
 
