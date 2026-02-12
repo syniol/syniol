@@ -14,7 +14,7 @@ or failing and make them boring again. I typically come in to help with:
  
  🤺 Unblocking teams stuck on performance, memory leaks, or concurrency bugs.
  
- 💥 Fixing brittle Node.js, Go, and Rust backends for UK/EU startups (High-scale, High-traffic systems)
+ 💥 Fixing brittle Node.js and Go backends for UK/EU startups (High-scale, High-traffic systems)
 
 Most teams don't need more features. They need stability, performance, and confidence in production. I work with startups, scaleups, and UK Government running Node.js, Go, or Rust that are under pressure: traffic growth, outages, or technical debt slowing delivery.
 
