@@ -32,11 +32,11 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 
 ### 📬 Open Source Projects
- * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
- * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
- * [AWS Lambda Node.js Skelton Boilerplate](https://github.com/syniol/lamda-node-js)
+ * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
  * [Serverless GraphQL with AWS CDK (Golang)](https://github.com/syniol/serverless-graphql-api-golang)
+ * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
+ * [AWS Lambda Node.js Skelton Boilerplate](https://github.com/syniol/lamda-node-js)
  * [AWS CDK Toolkit with Docker](https://github.com/syniol/aws-cdk-docker)
 
 
