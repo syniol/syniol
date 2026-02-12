@@ -37,6 +37,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
  * [AWS Lambda Node.js Skelton Boilerplate](https://github.com/syniol/lamda-node-js)
  * [Serverless GraphQL with AWS CDK (Golang)](https://github.com/syniol/serverless-graphql-api-golang)
+ * [AWS CDK Toolkit with Docker](https://github.com/syniol/aws-cdk-docker)
 
 
 ### 🎓 Education
