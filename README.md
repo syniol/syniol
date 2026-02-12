@@ -34,13 +34,9 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 ### 📬 Open Source Projects
  * [Prison Break _Stateless DDOS Protection Package_](https://github.com/syniol/prison-break)
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
- * [Sycrypt _Golang Enryption Package_](https://github.com/syniol/sycrypt)
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
- * [Node.js CLI Boilerplate](https://github.com/syniol/node-cli-boilerplate/tree/main)
  * [AWS Lambda Node.js Skelton Boilerplate](https://github.com/syniol/lamda-node-js)
- * [Currency Conversion](https://github.com/syniol/currency-conversion-ts)
  * [Serverless GraphQL with AWS CDK (Golang)](https://github.com/syniol/serverless-graphql-api-golang)
- * [Carbon GraphQL](https://github.com/syniol/carbon)
 
 
 ### 🎓 Education
