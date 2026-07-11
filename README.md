@@ -34,7 +34,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 
 ### 📬 Open Source Projects
- * [Go Money _Financial Package _](https://github.com/syniol/go-money)
+ * [Go Money _Financial Package_](https://github.com/syniol/go-money)
  * [Go Logger _Unix Logging Package_](https://github.com/syniol/go-logger)
  * [Node.js Simplified HTTP(s) Request Package](https://github.com/syniol/node-carbon-http)
  * [Serverless GraphQL with AWS CDK (Golang)](https://github.com/syniol/serverless-graphql-api-golang)
