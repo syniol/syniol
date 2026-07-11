@@ -24,7 +24,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 > High price + Clarity = Trust
 
 ### 📫 Closed Source Projects
- * [XYO Financial - Financial Transaction Enrichment SaaS API](https://xyo.financial)
+ * [XYO Financial - Payment Transaction Enrichment Software](https://xyo.financial)
    * [C++ SDK <sup><i>AI Generated</i></sup>](https://github.com/syniol/xyo-sdk-cpp)
    * [Java SDK <sup><i>AI Generated</i></sup>](https://github.com/syniol/xyo-sdk-java)
    * [Rust SDK](https://github.com/syniol/xyo-sdk-rust)
