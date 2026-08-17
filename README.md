@@ -25,12 +25,7 @@ contacts. I'm not the cheapest, but clients bring me in when things matters.
 
 ### 📫 Closed Source Projects
  * [XYO Financial - Payment Transaction Enrichment Software](https://xyo.financial)
-   * [Go (Golang) SDK](https://github.com/xyo-financial/xyo-sdk-go)
-   * [Node.js SDK](https://github.com/xyo-financial/xyo-sdk-node)
-   * [Rust SDK](https://github.com/xyo-financial/xyo-sdk-rust)
-   * [C++ SDK](https://github.com/xyo-financial/xyo-sdk-cpp)
-   * [Java SDK](https://github.com/xyo-financial/xyo-sdk-java)
-   * [PHP SDK](https://github.com/xyo-financial/xyo-sdk-php)
+   * [XYO Developer Portal & SDKs](https://github.com/xyo-financial)
 
 
 ### 📬 Open Source Projects
