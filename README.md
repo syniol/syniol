@@ -21,7 +21,7 @@ Most teams don't need more features. They need stability, performance, and confi
 I've helped teams reduce incidents, cut cloud costs, and ship faster without risk rewrites. I usually work on short, high-impact 
 contacts. I'm not the cheapest, but clients bring me in when things matters.
 
-> High price + Clarity = Trust
+> _High price + Clarity = Trust_
 
 ### 📫 Closed Source Projects
  * [XYO Financial - Payment Transaction Enrichment Software](https://xyo.financial)
